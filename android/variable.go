@@ -154,8 +154,6 @@ type productVariables struct {
 
 	BtConfigIncludeDir *string `json:",omitempty"`
 
-	ForcedShimLibs *string `json:",omitempty"`
-
 	Override_rs_driver *string `json:",omitempty"`
 
 	// include discovery variables
